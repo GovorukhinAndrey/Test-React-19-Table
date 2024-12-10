@@ -14,7 +14,11 @@ export const TheFooter: FC = () => {
         >
           <NotebookIcon />
         </a>
-        <a target="_blank" className="cursor-pointer" href="https://github.com">
+        <a
+          target="_blank"
+          className="cursor-pointer"
+          href="https://github.com/GovorukhinAndrey/Test-React-19-Table"
+        >
           <svg
             role="img"
             viewBox="0 0 24 24"
